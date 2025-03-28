@@ -14,18 +14,18 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Operacion operacion = new Operacion();
+        Familiar familiar = new Familiar();
 
         GregorianCalendar gregorianCalendar = new GregorianCalendar();
-
-//        //Establecemos los valores de los atributos de la clase Padre
-//        familiar.setCedula("0107272437");
-//        familiar.setNombre("Pablo");
-//        familiar.setApellido("Feijo");
-//        familiar.setDireccion("Jorge Icaza");
-//        //Establecemos los valores de los atributos de la clase Hija
-//        familiar.setParentesco("Familiar Parentesco 1");
-//        familiar.setTipoDeSangre("Tipo de Sangre 1");
-//        System.out.println(personaN);
+        //   Establecemos los valores de los atributos de la clase Padre
+        familiar.setCedula("0107272437");
+        familiar.setNombre("Pablo");
+        familiar.setApellido("Feijo");
+        familiar.setDireccion("Jorge Icaza");
+        //Establecemos los valores de los atributos de la clase Hija
+        familiar.setParentesco("Familiar Parentesco 1");
+        familiar.setTipoDeSangre("Tipo de Sangre 1");
+        System.out.println();
 
 
         System.out.println("Cuantas personas desea ingresar:");

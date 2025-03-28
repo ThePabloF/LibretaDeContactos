@@ -18,6 +18,9 @@ public class Familiar extends Persona {
         this.fechaNacimiento = fechaNacimiento;
 
     }
+    public Familiar(){
+
+    }
 
 
     public String getParentesco() {
