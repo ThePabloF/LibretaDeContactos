@@ -40,7 +40,7 @@ public class Main {
         for (int i = 0; i < numPersonas; i++) {
             System.out.println("Persona " + (i+1) + ":");
 
-            System.out.println("Ingrese el numero de cedula: ");
+            System.out.println("Ingrese el numero de cedula de Persona: ");
             String cedula = sc.next();
             System.out.println("Ingrese el nombre: ");
             String nombre = sc.next();
