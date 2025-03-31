@@ -10,6 +10,9 @@ public class Familiar extends Persona {
     private GregorianCalendar fechaNacimiento;
 
 
+    //ESTA BIEN ESTO PABLO :
+    //FELIZ
+
 
     public Familiar(String cedula, String nombre, String apellido, String direccion,String parentesco, String tipoDeSangre,GregorianCalendar fechaNacimiento) {
         super(cedula, nombre, apellido, direccion);
