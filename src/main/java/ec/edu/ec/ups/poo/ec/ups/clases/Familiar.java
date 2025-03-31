@@ -14,6 +14,7 @@ public class Familiar extends Persona {
     //FELIZÇ
     // CREACION DE UNA BREANCH
     //YA NOS E QUE HACER
+    //KLKLK
 
 
     public Familiar(String cedula, String nombre, String apellido, String direccion,String parentesco, String tipoDeSangre,GregorianCalendar fechaNacimiento) {
