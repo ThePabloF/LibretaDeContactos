@@ -13,6 +13,7 @@ public class Familiar extends Persona {
     //ESTA BIEN ESTO PABLO :
     //FELIZÇ
     // CREACION DE UNA BREANCH
+    //YA NOS E QUE HACER
 
 
     public Familiar(String cedula, String nombre, String apellido, String direccion,String parentesco, String tipoDeSangre,GregorianCalendar fechaNacimiento) {
